@@ -1,8 +1,8 @@
 ## Hi, I'm [Muhammad Raihan Molla](https://www.stopstalk.com/user/profile/raihan12121) 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammad_Raihan&label=Views&color=blue&style=plastic" alt="mr-sohel" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammad_raihan&label=Views&color=blue&style=plastic" alt="mr-sohel" /> </p>
 <a href="https://twitter.com/mrsohelcse">
-  <img align="left" alt="Sohel's Twitter" width="22px" src="https://cdn-icons-png.flaticon.com/512/733/733579.png" />
+  <img align="left" alt="raihan's Twitter" width="22px" src="https://cdn-icons-png.flaticon.com/512/733/733579.png" />
 </a>
 <a href="https://www.linkedin.com/in/muhammad-raihan-molla-4a8627264/">
   <img align="left" alt="Raihan's Linkdein" width="22px" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" />
