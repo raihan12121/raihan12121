@@ -1,52 +1,35 @@
-## Hi, I'm [Muhammad Raihan Molla](https://www.stopstalk.com/user/profile/raihan12121) 👋
+<h1 align="center">Hi 👋, I'm Muhammad Raihan Molla</h1>
+<h3 align="center">A passionate Programmer from Bangladesh.</h3>
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammad_raihan&label=Views&color=blue&style=plastic" alt="mr-sohel" /> </p>
-<a href="https://twitter.com/mrsohelcse">
-  <img align="left" alt="raihan's Twitter" width="22px" src="https://cdn-icons-png.flaticon.com/512/733/733579.png" />
-</a>
-<a href="https://www.linkedin.com/in/muhammad-raihan-molla-4a8627264/">
-  <img align="left" alt="Raihan's Linkdein" width="22px" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" />
-</a>
-<a href="https://github.com/raihan12121">
-  <img align="left" alt="Raihan's Github" width="22px" src="https://cdn-icons-png.flaticon.com/512/270/270798.png" />
-</a>
-<a href="https://instagram.com/muhammad_raihan009/">
-  <img align="left" alt="Raihan's Instagram" width="22px" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" />
-</a>
-<a href="https://www.facebook.com/muhammadraihanm009/">
-  <img align="left" alt="Raihan's Facebook" width="22px" src="https://cdn-icons-png.flaticon.com/512/5968/5968764.png" />
-</a>
-<br/>
-<br/>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=raihan12121&label=Profile%20views&color=0e75b6&style=flat" alt="raihan12121" /> </p>
 
-- 🌱 I’m currently learning Data Structures and Algorithms.
-- 🤔 I’m interested in Competitive Programming.
-- 💬 Ask me about anything [here](https://www.linkedin.com/in/muhammad-raihan-molla-4a8627264/)
-- ⚡ Fun fact: I often play video games.
+- 🌱 I’m currently learning **DSA,Machine learning,**
 
+- 👨‍💻 All of my projects are available at [www.github.com/Raihan12121](www.github.com/Raihan12121)
 
+- 💬 Ask me about **What Are you trying to doing in your project.**
 
+- 📫 How to reach me **mdraihan2328@gmail.com**
 
-**Languages and Tools:**
+- ⚡ Fun fact **I'm little bit funny😁.**
 
-<img align="left" alt="C" width="26px" src="https://cdn-icons-png.flaticon.com/512/3097/3097008.png"/>
-<img align="left" alt="C++" width="26px" src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png"/>
-<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/>
-<img align="left" alt="Java" width="26px" src="https://cdn-icons-png.flaticon.com/512/226/226777.png"/>
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/>
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/muhammad-raihan-molla-4a8627264/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad-raihan-molla-4a8627264/" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/23373784/muhammad-raihan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="23373784/muhammad-raihan" height="30" width="40" /></a>
+<a href="https://fb.com/muhammadraihanm009" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="muhammadraihanm009" height="30" width="40" /></a>
+<a href="https://instagram.com/rai__x009/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rai__x009/" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/@raihan-the-panda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@raihan-the-panda" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/mdraihan2328" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mdraihan2328" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/raihan009" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="raihan009" height="30" width="40" /></a>
+</p>
 
-<img align="left" alt="JS" width="26px" src="https://cdn-icons-png.flaticon.com/512/4726/4726005.png"/>
-<img align="left" alt="SQL" width="26px" src="https://cdn-icons-png.flaticon.com/512/4492/4492311.png"/>
-<img align="left" alt="Ubuntu" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png"/>
-<img align="left" alt="Git" width="26px" src="https://cdn-icons-png.flaticon.com/512/4494/4494748.png"/>
-<img align="left" alt="Sublime" width="26px" src="https://www.sublimehq.com/images/sublime_text.png"/>
-<img align="left" alt="VsCode" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg"/>
-<br/>
-<br/>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<div align="center">
-  
-### Show some ❤️ by starring some of the repositories!
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=raihan12121&show_icons=true&locale=en&layout=compact" alt="raihan12121" /></p>
 
-</div>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raihan12121&show_icons=true&locale=en" alt="raihan12121" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raihan12121&" alt="raihan12121" /></p>
